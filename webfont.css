@@ -1,0 +1,47 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3545037, 2018-03-21T03:47:21-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: AvenirLTStd-Roman by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/55-roman/
+ * 
+ * Webfont: AvenirLTStd-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/65-medium/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3545037
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Copyright &#x00A9; 2013 Monotype GmbH. All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/*@import url("/count/3617cd");*/
+
+  
+@font-face {font-family: 'Avenir-Roman';src: url('webfonts/3617CD_0_0.eot');src: url('webfonts/3617CD_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3617CD_0_0.woff2') format('woff2'),url('webfonts/3617CD_0_0.woff') format('woff'),url('webfonts/3617CD_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Avenir';src: url('webfonts/3617CD_1_0.eot');src: url('webfonts/3617CD_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3617CD_1_0.woff2') format('woff2'),url('webfonts/3617CD_1_0.woff') format('woff'),url('webfonts/3617CD_1_0.ttf') format('truetype');}
+
+@font-face{
+ font-family:'Open Sans';
+ font-style:normal;
+ font-weight:400;
+ src:local('Open Sans'), local('OpenSans'), url('webfonts/OpenSans-Regular.ttf') format('truetype'), url('webfonts/OpenSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face{
+ font-family:'Open Sans';
+ font-style:normal;
+ font-weight:600;
+ src:url('webfonts/OpenSans-SemiBold.ttf') format('truetype');
+}

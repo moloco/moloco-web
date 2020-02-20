@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115891436-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-115891436-1');
+  </script>
+  <meta charset="UTF-8">
+  <title>Moloco: Powering the healthy mobile ecosystem</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
+  <link rel="icon" href="favicon-16x16.png" sizes="16x16">
+  <link rel="icon" href="favicon-32x32.png" sizes="32x32">
+  <link rel="icon" href="favicon-96x96.png" sizes="96x96">
+</head>
+
+
+<body>
+  <header id="header" class="submenu_header">
+    <h1>
+      <a href="index.html">
+        MOLOCO
+      </a>
+    </h1>
+    <button class="btn_open_gnb">Toggle Menu</button>
+    <nav class="gnb">
+      <ul>
+        <li>
+          <a href="acquisition.html">ユーザー獲得</a>
+        </li>
+        <li>
+          <a href="re-engagement.html">リエンゲージメント</a>
+        </li>
+        <li>
+          <a href="ad-cloud.html">アドクラウド</a>
+        </li>
+        <li>
+          <a href="double-check.html">不正インストール対策</a>
+        </li>
+        <li class="active">
+          <a href="about.html">Molocoについて</a>
+        </li>
+        <li class="contact">
+          <a href="contact.html">コンタクト</a>
+        </li>
+        <li class="language">
+          <div class="dropdown">
+            <button class="dropbtn"><img src="img/icon-arrow-lang-down.png"><span>Jp</span></button>
+            <div class="dropdown-content">
+              <a href="../about.html">En</a>
+            </div>
+          </div>
+        </li>
+        <li class="language-mobile">
+          <select class="dropbtn" onChange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value)">
+            <option value="" selected>Japan</option>
+            <option value="../about.html">English</option>
+          </select>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="content1 about">
+    <div class="content_inner">
+      <h2>Molocoについて</h2>
+      <h3>データをパフォーマンスに変える</h3>
+    </div>
+
+  </div>
+
+  <div class="content2 about_content2">
+    <h3>私たちのストーリー</h3>
+    <p>Molocoは世界中のモバイルアプリビジネスを行うマーケターとデベロッパーのために、スケールとクオリティを両立する広告ソリューションを提供する目的で2013年に設立されました。そのパフォーマンスの高さは業界で広く認知されており、TUNE社のコンバージョンレートチャートやAppsflyer社の2018年版パフォーマンスインデックスなどでMolocoは高い評価を受けています。Molocoは純粋なテクノロジー企業であり、元Google、Amazon、Twitter、Goldman Sachsなどのトップエンジニアを多く抱えています。
+    </p>
+  </div>
+
+  <div class="content3 about_content3">
+    <div class="content_inner">
+      <h3>オフィス</h3>
+      <ul class="officelist">
+        <li>
+          <p>シリコンバレー</p>
+          <p>955 Alma St STE C
+            <br> Palo Alto, CA 94301</p>
+          <div class="map">
+            <a href="https://www.google.com/maps/place/955+Alma+St+ste+c,+Palo+Alto,+CA+94301/@37.4399903,-122.1603176,17z/data=!3m1!4b1!4m5!3m4!1s0x808fbb24a4f5758b:0xed9a667fa72f4b95!8m2!3d37.4399903!4d-122.1581289" target="_blank">
+              <img src="img/map/img-map-01.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+        <li>
+          <p>サンフランシスコ</p>
+          <p>650 California St FL 7
+            <br> San Francisco, CA 94108</p>
+          <div class="map">
+            <a href="https://www.google.com/maps/place/650+California+Street,+650+California+St+FL+7,+San+Francisco,+CA+94108/data=!4m2!3m1!1s0x8085808ba69e8cc1:0x2084129e9bb607d1?sa=X&amp;ved=0ahUKEwi71aLLi5LaAhXMhOAKHRmqDewQ8gEIJjAA" target="_blank">
+              <img src="img/map/img-map-02.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+        <li>
+          <p>シアトル</p>
+          <p>4300 University Way NE
+            <br> Seattle, WA 98105</p>
+          <div class="map">
+            <a href="https://www.google.com/maps/place/4300+University+Way+NE,+Seattle,+WA+98105/data=!4m2!3m1!1s0x5490148b37836a7d:0x1e0758db547467ec?sa=X&amp;ved=0ahUKEwiu3u7Zi5LaAhXim-AKHZssAwcQ8gEIJjAA" target="_blank">
+              <img src="img/map/img-map-03.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+        <li>
+          <p>ソウル</p>
+          <p>624 Gangnam Daero 6F
+            <br>Gangnam-gu</p>
+          <div class="map">
+            <a href="https://www.google.co.kr/maps/place/Kornerstone+Space/@37.517523,127.019489,15z/data=!4m5!3m4!1s0x0:0x6d25e59d0b35cdaa!8m2!3d37.517523!4d127.019489?hl=en" target="_blank">
+              <img src="img/map/img-map-04.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+        <li>
+          <p>ニューヨーク</p>
+          <p>1216 Broadway Fl 2
+            <br> New York, NY 10001</p>
+          <div class="map">
+            <a href="https://www.google.com/maps/place/1216+Broadway+Fl+2,+New+York,+NY+10001/@40.746612,-73.9902796,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259a8a4a4ad81:0xc34b17b54ff3dd57!8m2!3d40.746612!4d-73.9880909" target="_blank">
+              <img src="img/map/img-map-05.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+        <li>
+          <p>シンガポール</p>
+          <p>5 Temasek Boulevard
+            <br>Singapore 189677</p>
+          <div class="map">
+            <a href="https://www.google.com/maps/place/5+Temasek+Blvd,+Singapore+038985/@1.2946971,103.8556383,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19af386c4aa5:0xa9142df1876f25a2!8m2!3d1.2946917!4d103.8578323" target="_blank">
+              <img src="img/map/img-map-06.jpg" width="260px" height="260px">
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="content4 about_content4">
+    <h3>今日から始めましょう</h3>
+    <div class="headerline"></div>
+    <button class="btn_contact_us">
+      <a href="contact.html">コンタクトする</a>
+    </button>
+
+  </div>
+
+  <div class="content5 about_content5">
+    <div class="content_inner">
+      <h3>人材募集</h3>
+      <div class="headerline"></div>
+      <ul class="department">
+        <li>
+          <p>ビジネス</p>
+          <a href="https://www.linkedin.com/jobs/view/505048440/">セールスマネージャー</a>
+          <p class="location">サンフランシスコ/パロアルト</p>
+          <a href="https://www.linkedin.com/jobs/view/505044104/">アカウントマネージャー</a>
+          <p class="location">サンフランシスコ/パロアルト</p>
+        </li>
+        <li>
+          <p>エンジニアリング</p>
+          <a href="https://www.linkedin.com/jobs/view/133201813/">ソフトウェアエンジニア</a>
+          <p class="location">ソウル</p>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+
+  <footer id="footer">
+    <p>
+      <a href="private-policy.html">Privacy Policy</a> © 2018 Moloco Inc. All rights reserved</p>
+  </footer>
+
+</body>
+
+</html>
