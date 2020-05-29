@@ -64,7 +64,7 @@ button {
   width: 60px;
   height: 4px;
   margin: 18px auto;
-  background-color: #5176ba;
+  background-color: #30CBEF;
 }
 
 /* HEADER */
@@ -450,7 +450,7 @@ button {
   margin-bottom: 31px;
   font-size: 24px;
   line-height: 1.27;
-  color: #5177bb;
+  color: #2C7CF5;
 }
 
 .content3.mainpage ul {
@@ -620,7 +620,6 @@ button {
 }
 
 .content1.about .content_inner {
-  background: url('img/img-sub-au-01.svg') no-repeat 78% 23px;
 }
 
 .content1 .content_inner {
@@ -707,7 +706,7 @@ button {
   font-stretch: normal;
   line-height: 1.166667;
   text-align: center;
-  color: #5177bb;
+  color: #2C7CF5;
 }
 
 .content2 p {
@@ -809,7 +808,7 @@ button {
   font-size: 22px;
   line-height: 1.27;
   text-align: left;
-  color: #16c89f;
+  color: #F5417E;
 }
 
 .doublecheck_content2 .steps .step4 {
@@ -849,7 +848,7 @@ button {
 }
 
 .doublecheck_content2 .steps_bottom p {
-  color: #3c5aa1;
+  color: #2C7CF5;
 }
 
 .doublecheck_content2 .steps_bottom .step {
@@ -1027,14 +1026,14 @@ button {
 }
 
 .content4.about_content4 .headerline {
-  background-color: #5176ba;
+  background-color: #2C7CF5;
   margin: 18px auto 30px;
 }
 
 .about_content4 .btn_contact_us {
   width: 278px;
   height: 63px;
-  background-color: #5176ba;
+  background-color: #2C7CF5;
   font-size: 28px;
   color: #fff;
   transition: 0.2s all linear;
@@ -1071,6 +1070,7 @@ button {
 
 .about_content5 .headerline {
   margin: 13px auto 37px;
+  background-color: #2C7CF5;
 }
 
 .about_content5 .department {
@@ -1094,7 +1094,7 @@ button {
   margin-bottom: 15px;
   font-size: 22px;
   font-weight: 600;
-  color: #3c5aa1;
+  color: #2C7CF5;
   line-height: 1.773;
 }
 
@@ -1241,7 +1241,7 @@ button {
 .contact_content2 .contact_form #btn_get_started {
   width: 400px;
   height: 63px;
-  background-color: #5176ba;
+  background-color: #2C7CF5;
   font-family: 'Open Sans', sans-serif;
   text-rendering:optimizeLegibility;
   font-size: 28px;

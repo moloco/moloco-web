@@ -1,24 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
-    <g fill="none" fill-rule="evenodd">
-        <g transform="translate(21.885 46.569)">
-            <ellipse cx="9.937" cy="6.613" fill="#5177BB" rx="6.075" ry="6.613"/>
-            <path fill="#5177BB" d="M4.4 33.691C1.465 33.297 0 31.956 0 29.667V18.238c1.349-2.377 2.992-3.566 4.929-3.566h10.97c1.927.433 3.47 1.622 4.63 3.566v11.72c-.574 2.525-1.943 3.795-4.106 3.812v8.593H4.4v-8.672z"/>
-            <path fill="#FAFAFA" d="M9.655 17.224h1.263v1.252H9.655zM9.655 20.414h1.263v1.252H9.655zM9.655 23.603h1.263v1.252H9.655z"/>
-        </g>
-        <g fill="#5177BB" transform="translate(67.586 46.569)">
-            <ellipse cx="9.791" cy="6.573" rx="6.001" ry="6.573"/>
-            <path d="M4.4 33.943C1.465 33.551 0 32.217 0 29.94V18.572c1.349-2.365 2.992-3.547 4.929-3.547h10.97c1.927.43 3.47 1.612 4.63 3.547V30.23c-.574 2.511-1.943 3.775-4.106 3.792v8.548H4.4v-8.627z"/>
-        </g>
-        <path fill="#FAFAFA" d="M77.061 61.594h1.263v7.825h-1.263zM77.061 70.671h1.263v1.252h-1.263z"/>
-        <circle cx="56" cy="56" r="53.2" stroke="#5177BB" stroke-width="5.6"/>
-        <g>
-            <g fill="#5177BB" transform="translate(45.057 13.397)">
-                <ellipse cx="9.977" cy="6.698" rx="6.115" ry="6.698"/>
-                <path d="M4.414 33.513C1.47 33.123 0 31.793 0 29.527V18.205c1.353-2.355 3.002-3.533 4.945-3.533h11.006c1.935.429 3.484 1.606 4.647 3.533v11.61c-.577 2.5-1.95 3.76-4.12 3.776v8.512H4.414v-8.59z"/>
-            </g>
-            <path fill="#FAFAFA" d="M54.532 34.044h1.263v4.382h-1.263z"/>
-            <path fill="#FAFAFA" d="M58.468 27.366l1.094.631-3.913 6.777-1.093-.631z"/>
-            <path fill="#FAFAFA" d="M51.86 27.366l-1.094.631 3.913 6.777 1.093-.631z"/>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 112 112" style="enable-background:new 0 0 112 112;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#5177BB;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#2C7CF5;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FAFAFA;}
+	.st3{fill:none;stroke:#2C7CF5;stroke-width:5.6;}
+</style>
+<g>
+	<g transform="translate(21.885 46.569)">
+		<ellipse class="st0" cx="9.9" cy="6.6" rx="6.1" ry="6.6"/>
+		<path class="st1" d="M4.4,33.7C1.5,33.3,0,32,0,29.7V18.2c1.3-2.4,3-3.6,4.9-3.6h11c1.9,0.4,3.5,1.6,4.6,3.6V30
+			c-0.6,2.5-1.9,3.8-4.1,3.8v8.6h-12C4.4,42.4,4.4,33.7,4.4,33.7z"/>
+		<path class="st2" d="M9.7,17.2h1.3v1.3H9.7V17.2z M9.7,20.4h1.3v1.3H9.7V20.4z M9.7,23.6h1.3v1.3H9.7V23.6z"/>
+	</g>
+	<g transform="translate(67.586 46.569)">
+		<ellipse class="st1" cx="9.8" cy="6.6" rx="6" ry="6.6"/>
+		<path class="st1" d="M4.4,33.9c-2.9-0.4-4.4-1.7-4.4-4V18.6C1.3,16.2,3,15,4.9,15h11c1.9,0.4,3.5,1.6,4.6,3.5v11.7
+			C20,32.7,18.6,34,16.4,34v8.5h-12V33.9z"/>
+	</g>
+	<path class="st2" d="M77.1,61.6h1.3v7.8h-1.3V61.6z M77.1,70.7h1.3v1.3h-1.3V70.7z"/>
+	<circle class="st3" cx="56" cy="56" r="53.2"/>
+	<g>
+		<g transform="translate(45.057 13.397)">
+			<ellipse class="st1" cx="10" cy="6.7" rx="6.1" ry="6.7"/>
+			<path class="st1" d="M4.4,33.5c-2.9-0.4-4.4-1.7-4.4-4V18.2c1.4-2.4,3-3.5,4.9-3.5h11c1.9,0.4,3.5,1.6,4.6,3.5v11.6
+				c-0.6,2.5-2,3.8-4.1,3.8v8.5H4.4V33.5z"/>
+		</g>
+		<path class="st2" d="M54.5,34h1.3v4.4h-1.3V34z"/>
+		<path class="st2" d="M58.5,27.4l1.1,0.6l-3.9,6.8l-1.1-0.6L58.5,27.4z"/>
+		<path class="st2" d="M51.9,27.4L50.8,28l3.9,6.8l1.1-0.6L51.9,27.4z"/>
+	</g>
+</g>
 </svg>

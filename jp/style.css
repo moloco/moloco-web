@@ -3,7 +3,7 @@
 /* RESET */
 html, body, div, p, section, header, footer, h1, h2, h3, h4, h5, ul, li, a, form, label {
   padding: 0;
-  margin: 0; 
+  margin: 0;
   box-sizing: border-box;
   font-weight: 600;
   font-family: 'Open Sans', sans-serif;
@@ -595,7 +595,6 @@ button {
 }
 
 .content1.about .content_inner {
-  background: url('img/img-sub-au-01.svg') no-repeat 78% 23px;
 }
 
 .content1 .content_inner {
@@ -821,7 +820,7 @@ button {
 }
 
 .doublecheck_content2 .steps_bottom p {
-  color: #3c5aa1;
+  color: #2C7CF5;
 }
 
 .doublecheck_content2 .steps_bottom .step {
@@ -1004,7 +1003,7 @@ button {
 .about_content4 .btn_contact_us {
   width: 278px;
   height: 63px;
-  background-color: #5176ba;
+  background-color: #2C7CF5;
   font-size: 28px;
   color: #fff;
   transition: 0.2s all linear;
@@ -1064,7 +1063,7 @@ button {
   margin-bottom: 15px;
   font-size: 22px;
   font-weight: 600;
-  color: #3c5aa1;
+  color: #2C7CF5;
   line-height: 1.773;
 }
 
@@ -1210,7 +1209,7 @@ button {
 .contact_content2 .contact_form #btn_get_started {
   width: 400px;
   height: 63px;
-  background-color: #5176ba;
+  background-color: #2C7CF5;
   font-family: 'Open Sans', sans-serif;
   text-rendering:optimizeLegibility;
   font-size: 28px;
@@ -1416,11 +1415,11 @@ button {
   #header .gnb ul li.active {
     border: none;
   }
-  
+
   #header .gnb ul li.active a {
     color: #454545;
   }
-  
+
   #header .gnb ul li.contact a {
     border: none;
   }
@@ -1429,12 +1428,12 @@ button {
   #header.submenu_header .gnb ul li.contact a {
     border: none;
   }
-  
+
   #header.compressed .gnb ul li.contact.active,
   #header.submenu_header .gnb ul li.contact.active {
     border: none;
   }
-  
+
   #header.compressed .gnb ul li.contact.active a,
   #header.submenu_header .gnb ul li.contact.active a {
     border: none;
@@ -1555,7 +1554,7 @@ button {
     margin: 0 !important;
     padding: 20px 0 0;
   }
-    
+
   .content2.mainpage section .txt p {
     width: 90%;
     font-size: 14px;
@@ -1646,7 +1645,7 @@ button {
   .content5.mainpage {
     padding: 50px 0 20px;
   }
-  
+
   .content5.mainpage h2 {
     height: 27px;
     font-size: 20px;
@@ -1655,12 +1654,12 @@ button {
   .content5.mainpage .headerline {
     margin: 16px auto 20px;
   }
-  
+
   .content5.mainpage section.partners ul {
     display: block;
     width: auto;
   }
-    
+
   .content5.mainpage ul li {
     display: block;
     margin: 0 0 30px;
@@ -1821,7 +1820,7 @@ button {
     width: 28px;
     margin: 16px 0;
   }
-  
+
   .doublecheck_content2 .steps .step1 {
     font-size: 12px;
   }
@@ -1846,7 +1845,7 @@ button {
   .doublecheck_content2 .steps .step .checklist {
     margin-top: 8px;
   }
-  
+
   .doublecheck_content2 .steps .step .checklist li {
     padding-left: 16px;
     background: url('img/icon-s-check.svg') no-repeat 0 5px ;

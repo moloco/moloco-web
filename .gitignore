@@ -35,3 +35,4 @@ src/protobuf
 src/protobuf/*.js
 src/protobuf/*.ts
 .env
+.idea
