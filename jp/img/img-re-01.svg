@@ -1,63 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
-    <g fill="none" fill-rule="evenodd">
-        <g transform="translate(50.4 43.2)">
-            <ellipse cx="5.789" cy="3.961" fill="#5177BB" rx="3.539" ry="3.961"/>
-            <path fill="#5177BB" d="M2.563 20.18C.854 19.943 0 19.14 0 17.77v-6.846C.786 9.5 1.743 8.788 2.871 8.788h6.391c1.123.26 2.023.971 2.698 2.136v7.02c-.335 1.512-1.132 2.272-2.392 2.283v5.147H2.563V20.18z"/>
-            <path fill="#FAFAFA" d="M5.625 10.316h1v1h-1zM5.625 12.227h1v1h-1zM5.625 14.137h1v1h-1z"/>
-        </g>
-        <g transform="translate(32 43.2)">
-            <ellipse cx="5.789" cy="3.961" fill="#5177BB" rx="3.539" ry="3.961"/>
-            <path fill="#5177BB" d="M2.563 20.18C.854 19.943 0 19.14 0 17.77v-6.846C.786 9.5 1.743 8.788 2.871 8.788h6.391c1.123.26 2.023.971 2.698 2.136v7.02c-.335 1.512-1.132 2.272-2.392 2.283v5.147H2.563V20.18z"/>
-            <path fill="#FAFAFA" d="M5.625 10.316h1v1h-1zM5.625 12.227h1v1h-1zM5.625 14.137h1v1h-1z"/>
-        </g>
-        <g transform="translate(68.8 43.2)">
-            <ellipse cx="5.789" cy="3.961" fill="#5177BB" rx="3.539" ry="3.961"/>
-            <path fill="#5177BB" d="M2.563 20.18C.854 19.943 0 19.14 0 17.77v-6.846C.786 9.5 1.743 8.788 2.871 8.788h6.391c1.123.26 2.023.971 2.698 2.136v7.02c-.335 1.512-1.132 2.272-2.392 2.283v5.147H2.563V20.18z"/>
-            <path fill="#FAFAFA" d="M5.625 10.316h1v1h-1zM5.625 12.227h1v1h-1zM5.625 14.137h1v1h-1z"/>
-        </g>
-        <g fill="#5177BB" transform="translate(50.4 73.6)">
-            <ellipse cx="5.704" cy="3.937" rx="3.496" ry="3.937"/>
-            <path d="M2.563 20.33C.854 20.095 0 19.296 0 17.933v-6.81C.786 9.708 1.743 9 2.871 9h6.391c1.123.258 2.023.966 2.698 2.125v6.983c-.335 1.503-1.132 2.26-2.392 2.27v5.12H2.563V20.33z"/>
-        </g>
-        <path fill="#FAFAFA" d="M55.92 82.599h1v4.687h-1zM55.92 88.036h1v1h-1z"/>
-        <g fill="#5177BB" transform="translate(32 73.6)">
-            <ellipse cx="5.704" cy="3.937" rx="3.496" ry="3.937"/>
-            <path d="M2.563 20.33C.854 20.095 0 19.296 0 17.933v-6.81C.786 9.708 1.743 9 2.871 9h6.391c1.123.258 2.023.966 2.698 2.125v6.983c-.335 1.503-1.132 2.26-2.392 2.27v5.12H2.563V20.33z"/>
-        </g>
-        <path fill="#FAFAFA" d="M37.52 82.599h1v4.687h-1zM37.52 88.036h1v1h-1z"/>
-        <g fill="#5177BB" transform="translate(68.8 73.6)">
-            <ellipse cx="5.704" cy="3.937" rx="3.496" ry="3.937"/>
-            <path d="M2.563 20.33C.854 20.095 0 19.296 0 17.933v-6.81C.786 9.708 1.743 9 2.871 9h6.391c1.123.258 2.023.966 2.698 2.125v6.983c-.335 1.503-1.132 2.26-2.392 2.27v5.12H2.563V20.33z"/>
-        </g>
-        <path fill="#FAFAFA" d="M74.32 82.599h1v4.687h-1zM74.32 88.036h1v1h-1z"/>
-        <g>
-            <g fill="#5177BB" transform="translate(50.4 12.8)">
-                <ellipse cx="5.813" cy="4.073" rx="3.563" ry="4.073"/>
-                <path d="M2.571 20.377C.857 20.139 0 19.33 0 17.953v-6.884c.788-1.432 1.749-2.148 2.881-2.148h6.412c1.127.26 2.03.977 2.707 2.148v7.06c-.336 1.52-1.136 2.285-2.4 2.295V25.6H2.571v-5.223z"/>
-            </g>
-            <path fill="#FAFAFA" d="M55.92 25.354h1v2.664h-1z"/>
-            <path fill="#FAFAFA" d="M58.263 21.302l.866.5-2.38 4.12-.865-.5z"/>
-            <path fill="#FAFAFA" d="M54.313 21.302l-.866.5 2.38 4.12.865-.5z"/>
-        </g>
-        <g>
-            <g fill="#5177BB" transform="translate(32 12.8)">
-                <ellipse cx="5.813" cy="4.073" rx="3.563" ry="4.073"/>
-                <path d="M2.571 20.377C.857 20.139 0 19.33 0 17.953v-6.884c.788-1.432 1.749-2.148 2.881-2.148h6.412c1.127.26 2.03.977 2.707 2.148v7.06c-.336 1.52-1.136 2.285-2.4 2.295V25.6H2.571v-5.223z"/>
-            </g>
-            <path fill="#FAFAFA" d="M37.52 25.354h1v2.664h-1z"/>
-            <path fill="#FAFAFA" d="M39.863 21.302l.866.5-2.38 4.12-.865-.5z"/>
-            <path fill="#FAFAFA" d="M35.913 21.302l-.866.5 2.38 4.12.865-.5z"/>
-        </g>
-        <path stroke="#5177BB" stroke-dasharray="3.007" stroke-linecap="square" stroke-width=".8" d="M24 40.8h64M24 71.2h64"/>
-        <g>
-            <g fill="#5177BB" transform="translate(68.8 12.8)">
-                <ellipse cx="5.813" cy="4.073" rx="3.563" ry="4.073"/>
-                <path d="M2.571 20.377C.857 20.139 0 19.33 0 17.953v-6.884c.788-1.432 1.749-2.148 2.881-2.148h6.412c1.127.26 2.03.977 2.707 2.148v7.06c-.336 1.52-1.136 2.285-2.4 2.295V25.6H2.571v-5.223z"/>
-            </g>
-            <path fill="#FAFAFA" d="M74.32 25.354h1v2.664h-1z"/>
-            <path fill="#FAFAFA" d="M76.663 21.302l.866.5-2.38 4.12-.865-.5z"/>
-            <path fill="#FAFAFA" d="M72.713 21.302l-.866.5 2.38 4.12.865-.5z"/>
-        </g>
-        <circle cx="56" cy="56" r="53.2" stroke="#5177BB" stroke-width="5.6"/>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 112 112" style="enable-background:new 0 0 112 112;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#2C7CF5;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FAFAFA;}
+	.st2{fill:none;stroke:#2C7CF5;stroke-width:0.8;stroke-linecap:square;stroke-dasharray:3.007;}
+	.st3{fill:none;stroke:#2C7CF5;stroke-width:5.6;}
+</style>
+<g>
+	<g transform="translate(50.4 43.2)">
+		<ellipse class="st0" cx="5.8" cy="4" rx="3.5" ry="4"/>
+		<path class="st0" d="M2.6,20.2C0.9,20,0,19.2,0,17.8V11c0.8-1.4,1.7-2.1,2.9-2.1h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.4,2.6,20.2,2.6,20.2z"/>
+		<path class="st1" d="M5.6,10.3h1v1h-1V10.3z M5.6,12.2h1v1h-1V12.2z M5.6,14.1h1v1h-1V14.1z"/>
+	</g>
+	<g transform="translate(32 43.2)">
+		<ellipse class="st0" cx="5.8" cy="4" rx="3.5" ry="4"/>
+		<path class="st0" d="M2.6,20.2C0.9,20,0,19.2,0,17.8V11c0.8-1.4,1.7-2.1,2.9-2.1h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.4,2.6,20.2,2.6,20.2z"/>
+		<path class="st1" d="M5.6,10.3h1v1h-1V10.3z M5.6,12.2h1v1h-1V12.2z M5.6,14.1h1v1h-1V14.1z"/>
+	</g>
+	<g transform="translate(68.8 43.2)">
+		<ellipse class="st0" cx="5.8" cy="4" rx="3.5" ry="4"/>
+		<path class="st0" d="M2.6,20.2C0.9,20,0,19.2,0,17.8V11c0.8-1.4,1.7-2.1,2.9-2.1h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.4,2.6,20.2,2.6,20.2z"/>
+		<path class="st1" d="M5.6,10.3h1v1h-1V10.3z M5.6,12.2h1v1h-1V12.2z M5.6,14.1h1v1h-1V14.1z"/>
+	</g>
+	<g transform="translate(50.4 73.6)">
+		<ellipse class="st0" cx="5.7" cy="3.9" rx="3.5" ry="3.9"/>
+		<path class="st0" d="M2.6,20.3c-1.7-0.2-2.6-1-2.6-2.4v-6.8C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.5,2.6,20.3,2.6,20.3z"/>
+	</g>
+	<path class="st1" d="M55.9,82.6h1v4.7h-1V82.6z M55.9,88h1v1h-1V88z"/>
+	<g transform="translate(32 73.6)">
+		<ellipse class="st0" cx="5.7" cy="3.9" rx="3.5" ry="3.9"/>
+		<path class="st0" d="M2.6,20.3c-1.7-0.2-2.6-1-2.6-2.4v-6.8C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.5,2.6,20.3,2.6,20.3z"/>
+	</g>
+	<path class="st1" d="M37.5,82.6h1v4.7h-1V82.6z M37.5,88h1v1h-1V88z"/>
+	<g transform="translate(68.8 73.6)">
+		<ellipse class="st0" cx="5.7" cy="3.9" rx="3.5" ry="3.9"/>
+		<path class="st0" d="M2.6,20.3c-1.7-0.2-2.6-1-2.6-2.4v-6.8C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7
+			c-0.3,1.5-1.1,2.3-2.4,2.3v5.1h-7C2.6,25.5,2.6,20.3,2.6,20.3z"/>
+	</g>
+	<path class="st1" d="M74.3,82.6h1v4.7h-1V82.6z M74.3,88h1v1h-1V88z"/>
+	<g>
+		<g transform="translate(50.4 12.8)">
+			<ellipse class="st0" cx="5.8" cy="4.1" rx="3.6" ry="4.1"/>
+			<path class="st0" d="M2.6,20.4C0.9,20.1,0,19.3,0,18v-6.9C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7.1
+				c-0.3,1.5-1.1,2.3-2.4,2.3v5.2h-7C2.6,25.7,2.6,20.4,2.6,20.4z"/>
+		</g>
+		<path class="st1" d="M55.9,25.4h1V28h-1V25.4z"/>
+		<path class="st1" d="M58.3,21.3l0.9,0.5l-2.4,4.1l-0.9-0.5L58.3,21.3z"/>
+		<path class="st1" d="M54.3,21.3l-0.9,0.5l2.4,4.1l0.9-0.5L54.3,21.3z"/>
+	</g>
+	<g>
+		<g transform="translate(32 12.8)">
+			<ellipse class="st0" cx="5.8" cy="4.1" rx="3.6" ry="4.1"/>
+			<path class="st0" d="M2.6,20.4C0.9,20.1,0,19.3,0,18v-6.9C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7.1
+				c-0.3,1.5-1.1,2.3-2.4,2.3v5.2h-7C2.6,25.7,2.6,20.4,2.6,20.4z"/>
+		</g>
+		<path class="st1" d="M37.5,25.4h1V28h-1V25.4z"/>
+		<path class="st1" d="M39.9,21.3l0.9,0.5l-2.4,4.1l-0.9-0.5L39.9,21.3z"/>
+		<path class="st1" d="M35.9,21.3L35,21.8l2.4,4.1l0.9-0.5L35.9,21.3z"/>
+	</g>
+	<path class="st2" d="M24,40.8h64 M24,71.2h64"/>
+	<g>
+		<g transform="translate(68.8 12.8)">
+			<ellipse class="st0" cx="5.8" cy="4.1" rx="3.6" ry="4.1"/>
+			<path class="st0" d="M2.6,20.4C0.9,20.1,0,19.3,0,18v-6.9C0.8,9.7,1.7,9,2.9,9h6.4c1.1,0.3,2,1,2.7,2.1v7.1
+				c-0.3,1.5-1.1,2.3-2.4,2.3v5.2h-7C2.6,25.7,2.6,20.4,2.6,20.4z"/>
+		</g>
+		<path class="st1" d="M74.3,25.4h1V28h-1V25.4z"/>
+		<path class="st1" d="M76.7,21.3l0.9,0.5l-2.4,4.1l-0.9-0.5L76.7,21.3z"/>
+		<path class="st1" d="M72.7,21.3l-0.9,0.5l2.4,4.1l0.9-0.5L72.7,21.3z"/>
+	</g>
+	<circle class="st3" cx="56" cy="56" r="53.2"/>
+</g>
 </svg>

@@ -48,7 +48,7 @@ button {
   width: 60px;
   height: 3px;
   margin: 18px auto;
-  background-color: #5176ba;
+  background-color: #30CBEF;
 }
 
 /* HEADER */
@@ -428,7 +428,7 @@ button {
   margin-bottom: 31px;
   font-size: 24px;
   line-height: 1.27;
-  color: #5177bb;
+  color: #2C7CF5;
 }
 
 .content3.mainpage ul {
@@ -499,7 +499,7 @@ button {
 
 .content5.mainpage {
   padding: 79px 0 0;
-  background-color: #f7f7f7;
+  background-color: #fafafa;
 }
 
 .content5.mainpage section.partners {
@@ -682,7 +682,7 @@ button {
   font-stretch: normal;
   line-height: 28px;
   text-align: center;
-  color: #5177bb;
+  color: #2C7CF5;
 }
 
 .content2 p {
@@ -780,7 +780,7 @@ button {
   font-weight: bold;
   line-height: 1.27;
   text-align: left;
-  color: #16c89f;
+  color: #2C7CF5;
 }
 
 .doublecheck_content2 .steps .step4 {
@@ -997,6 +997,7 @@ button {
 }
 
 .about_content4 .headerline {
+  background-color: #2C7CF5;
   margin: 10px auto 29px;
 }
 
@@ -1040,6 +1041,7 @@ button {
 
 .about_content5 .headerline {
   margin: 13px auto 37px;
+  background-color: #2C7CF5;
 }
 
 .about_content5 .department {
